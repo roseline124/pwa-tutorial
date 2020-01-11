@@ -6,5 +6,5 @@ Doing PWA tutorial with [Net Ninza Youtube Channel](https://youtu.be/4XT23X0Fjfk
 ### TO DOs
 - [x] lesson1: Learn PWA
 - [x] lesson2: Make static files
-- [] lesson3: Add manifest.json file
+- [x] lesson3: Add manifest.json file
 - [] lesson4: Show our app in home screen
