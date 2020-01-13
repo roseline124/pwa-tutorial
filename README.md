@@ -9,3 +9,10 @@ Doing PWA tutorial with [Net Ninza Youtube Channel](https://youtu.be/4XT23X0Fjfk
 - [x] lesson3: Add manifest.json file
 - [x] lesson4: Show our app in home screen
 - [x] lesson5: Support IOS with icon, status bar color
+
+- [x] lesson6: Intro of service worker
+- [x] lesson7: Service worker lifecycle
+- [x] lesson8: Register service worker 
+- [x] lesson9: Install service worker
+- [x] lesson10: Activate service worker
+- [] lesson11: Lighthouse Audit
