@@ -15,4 +15,5 @@ Doing PWA tutorial with [Net Ninza Youtube Channel](https://youtu.be/4XT23X0Fjfk
 - [x] lesson8: Register service worker 
 - [x] lesson9: Install service worker
 - [x] lesson10: Activate service worker
-- [] lesson11: Lighthouse Audit
+- [x] lesson11: Lighthouse Audit
+- [x] lesson12: Fetch Event
