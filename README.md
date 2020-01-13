@@ -17,3 +17,6 @@ Doing PWA tutorial with [Net Ninza Youtube Channel](https://youtu.be/4XT23X0Fjfk
 - [x] lesson10: Activate service worker
 - [x] lesson11: Lighthouse Audit
 - [x] lesson12: Fetch Event
+- [x] lesson13: Pop up Install banner
+- [x] lesson14: Offline mode
+- [x] lesson15: Pre-cache
