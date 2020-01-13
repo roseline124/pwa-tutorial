@@ -1,6 +1,25 @@
+const staticCacheName = 'site-static'
+const assets = [
+    '/',
+    '/index.html',
+    '/js/app.js',
+    '/js/ui.js',
+    '/js/materialize.min.js',
+    '/css/styles.css',
+    '/css/materialize.min.css',
+    '/img/dish.png',
+    'https://fonts.googleapis.com/icon?family=Material+Icons',
+]
+
 // install service worker
 self.addEventListener('install', (event) => { 
-    console.log('service worker has been installed')
+    // console.log('service worker has been installed')
+    event.waitUntil(
+        caches.open(staticCacheName).then(cache => {
+            console.log('caching shell assets')
+            cache.addAll(assets)
+        })
+    )
 })
 
 // activate event
@@ -10,5 +29,5 @@ self.addEventListener('activate', (event) => {
 
 // fetch event
 self.addEventListener('fetch', (event) => {
-    console.log('fetch event', event)
+    console.log('fetch event')
 }) 
