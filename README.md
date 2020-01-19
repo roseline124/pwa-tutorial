@@ -20,3 +20,4 @@ Doing PWA tutorial with [Net Ninza Youtube Channel](https://youtu.be/4XT23X0Fjfk
 - [x] lesson13: Pop up Install banner
 - [x] lesson14: Offline mode
 - [x] lesson15: Pre-cache
+- [x] lesson16: Get cached assets
